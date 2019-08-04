@@ -1,6 +1,5 @@
 ﻿using System;
 using Infrastructure;
-using Infrastructure.Services.Interfaces;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace TestProject1

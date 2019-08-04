@@ -57,7 +57,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TestInfrastructureDI\Infrastructure.csproj">
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj">
       <Project>{DD357AEB-6ABD-4276-8125-724DA8EE9754}</Project>
       <Name>Infrastructure</Name>
     </ProjectReference>
